@@ -14,6 +14,7 @@ echo $ok1;
 echo " = i am good <br>";
 echo $ok2;
 echo " = i am also good <br>";
+echo " Bye"
 ?> 
 
 </body>
