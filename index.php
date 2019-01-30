@@ -3,6 +3,7 @@
 <body>
 
 <h1>My first PHP page</h1>
+<h2>Please explore if time is sufficient</h2>
 
 <?php
 $ok1 = "Superman";
@@ -17,8 +18,8 @@ echo $ok2;
 echo " = i am also good <br>";
 echo " Bye <br>";
 echo $ok3;
-echo " = Hey wait for me <br>";  
-?> 
+echo " = Hey wait for me <br>";
+?>
 
 </body>
 </html>
