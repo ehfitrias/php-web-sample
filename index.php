@@ -9,6 +9,7 @@
 $ok1 = "Superman";
 $ok2 = "Batman";
 $ok3 = "Wonderwoman";
+$ok4 = "Hulk";
 
 echo "Hello World! <br>";
 echo "How are you today? <br>";
@@ -18,7 +19,9 @@ echo $ok2;
 echo " = i am also good <br>";
 echo " Bye <br>";
 echo $ok3;
-echo " = Hey wait for me <br>";
+echo " = don't wait up <br>";
+echo $ok4;
+echo " = HULK!!! <br>";
 ?>
 
 </body>
