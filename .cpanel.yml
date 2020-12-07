@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/langitte/public_html/web-php/
+    - export DEPLOYPATH=/home/langitte/public_html/myphp/
     - /bin/cp index.php $DEPLOYPATH
